@@ -1,0 +1,12 @@
+Hackathon
+Work-O-Holic
+eneral Instructions:
+I. Some functions might need Internet connection
+. Some functions might load slower because they might not be used directly from application
+. It may seem to be not responding but the app is hibernated when running.
+. Do not close the application before you are done working
+. To close application forcefully, close the command prompt opened with it.
+. Everything is sequential. Do not press button if not instructed.
+Start
+If you have medicines to be taken please enter time to take it
+Format example: 02:00 PM
